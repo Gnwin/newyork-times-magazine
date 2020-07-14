@@ -1,0 +1,77 @@
+/*** Project Meta ***/
+
+/* line - 15 general */
+
+/* line - 28 header */
+
+/* line - 76 main content */
+
+/* line - 225 footer */
+
+/** general **/
+
+body,
+html {
+  background-color: white;
+  position: relative;
+  margin: 0;
+  font-size: 100%;
+  padding: 0;
+  font-family: "nyt-franklin", "helvetica", "arial", "sans-serif";
+}
+
+.font {
+  font-family: "nyt-franklin", "helvetica", "arial", "sans-serif";
+}
+
+/** header **/
+
+.header {
+  overflow: hidden;
+  padding: 0.2rem 1%;
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.sidenav,
+.search {
+  width: 1rem;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ham,
+.mag {
+  padding: 0.6rem 0.6rem;
+  margin-right: 0.3rem; 
+}
+
+.nyt {
+  display: inline-flex;
+}
+
+.nyt-img1 {
+  width: 12.5rem;
+  text-decoration: none;
+}
+
+.subscribe,
+.log-in {
+  background: #567b95;
+  color: white;
+  border-style: none;
+  border: 1px solid #326891;
+  border-radius: 5%;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: bold;
+  padding: 0.7rem;
+}
+
+/** main content **/
+
+
+/** footer **/
